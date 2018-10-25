@@ -12,7 +12,7 @@ public class Hello {
 		Utility u = new Utility();
 		System.out.println(u.add(1, 2));
 		Result r = new Result();
-		System.out.println("result");
+		System.out.println("result2");
 		
 	}
 	
